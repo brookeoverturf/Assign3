@@ -1,3 +1,7 @@
+/*
+ * Author: Brooke Overturf
+ * PIN: 622
+ */
 package cse360assign3_3;
 
 import static org.junit.Assert.*;
